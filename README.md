@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
 I am John Unger, ambitious to steward our computer's function for the best as a Software Developer \\
 A conscientious and creative thinking software developer for almost 3 years with a strong work ethic and positive attitude. I learn new material quickly and possess excellent analytical abilities. Enjoy helping others achieve their goals and sharing knowledge. Currently, an MBA student at The Master's University to gain a foundation in business practices.
 
