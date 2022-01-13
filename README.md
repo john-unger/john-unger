@@ -40,11 +40,6 @@ A conscientious and creative thinking software developer for almost 3 years with
 - a fun project with iOS or ML
 
 
-### 🤔 I’m looking for help with
-
-- finding a full-time job
-
-
 ### 📫 How to reach me: 
 
 - LinkedIn: https://www.linkedin.com/in/jjunger5
