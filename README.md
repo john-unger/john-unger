@@ -21,8 +21,8 @@ A conscientious and creative thinking software developer for almost 3 years with
 
 ### 🔭 Technical Skills
 
-- Python, Django,
-- Java, JavaScript, jQuery,
+- Java, Python, Django,
+- JavaScript, jQuery,
 - SQL, Postgres,
 - Linux, Bash, Shell
 - VisualBasic, C, Arduino, MPI, OpenMP,
