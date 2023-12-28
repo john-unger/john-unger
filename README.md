@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am John Unger, ambitious to steward our computer's function for the best as a Software Developer \\
-A conscientious and creative thinking software developer for almost 3 years with a strong work ethic and positive attitude. I learn new material quickly and possess excellent analytical abilities. Enjoy helping others achieve their goals and sharing knowledge. Currently, an MBA student at The Master's University to gain a foundation in business practices.
+I am John Unger, ambitious to steward our computer's function for the best as a Software Developer
+> A conscientious and creative thinking software developer for almost 5 years with a strong work ethic and positive attitude. I learn new material quickly and possess excellent analytical abilities. I enjoy helping others achieve their goals and sharing knowledge.
 
 
 
@@ -23,7 +23,7 @@ A conscientious and creative thinking software developer for almost 3 years with
 
 - Java, Python, Django,
 - JavaScript, jQuery,
-- SQL, Postgres,
+- SQL, MySql, Postgres,
 - Linux, Bash, Shell
 - VisualBasic, C, Arduino, MPI, OpenMP,
 - Git, Scrum, Agile
@@ -44,8 +44,3 @@ A conscientious and creative thinking software developer for almost 3 years with
 
 - LinkedIn: https://www.linkedin.com/in/jjunger5
 - GitHub: https://github.com/john-unger
-- Instagram: https://www.instagram.com/jj_unger/
-
-  
-   
-
